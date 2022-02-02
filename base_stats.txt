@@ -1,0 +1,948 @@
+Bulbizarre:118:111:128
+Herbizarre:151:143:155
+Florizarre:198:189:190
+Méga-Florizarre:241:246:190
+Salamèche:116:93:118
+Reptincel:158:126:151
+Dracaufeu:223:173:186
+Méga-Dracaufeu X:273:213:186
+Méga-Dracaufeu Y:319:212:186
+Carapuce:94:121:127
+Carabaffe:126:155:153
+Tortank:171:207:188
+Méga-Tortank:264:237:188
+Chenipan:55:55:128
+Chrysacier:45:80:137
+Papilusion:167:137:155
+Aspicot:63:50:120
+Coconfort:46:75:128
+Dardargnan:169:130:163
+Méga-Dardargnan:303:148:163
+Roucool:85:73:120
+Roucoups:117:105:160
+Roucarnage:166:154:195
+Méga-Roucarnage:280:175:195
+Rattata:103:70:102
+Rattata d'Alola:103:70:102
+Rattatac:161:139:146
+Rattatac d'Alola:135:154:181
+Piafabec:112:60:120
+Rapasdepic:182:133:163
+Abo:110:97:111
+Arbok:167:153:155
+Pikachu:112:96:111
+Pikachu Catcheur:112:96:111
+Raichu:193:151:155
+Raichu d'Alola:201:154:155
+Sabelette:126:120:137
+Sabelette d'Alola:125:129:137
+Sablaireau:182:175:181
+Sablaireau d'Alola:177:195:181
+Nidoran♀️:86:89:146
+Nidorina:117:120:172
+Nidoqueen:180:173:207
+Nidoran♂️:105:76:130
+Nidorino:137:111:156
+Nidoking:204:156:191
+Mélofée:107:108:172
+Mélodelfe:178:162:216
+Goupix:96:109:116
+Goupix d'Alola:96:109:116
+Feunard:169:190:177
+Feunard d'Alola:170:193:177
+Rondoudou:80:41:251
+Grodoudou:156:90:295
+Nosferapti:83:73:120
+Nosferalto:161:150:181
+Mystherbe:131:112:128
+Ortide:153:136:155
+Rafflesia:202:167:181
+Paras:121:99:111
+Parasect:165:146:155
+Mimitoss:100:100:155
+Aéromite:179:143:172
+Taupiqueur:109:78:67
+Taupiqueur d'Alola:108:81:67
+Triopikeur:167:136:111
+Triopikeur d'Alola:201:142:111
+Miaouss:92:78:120
+Miaouss d'Alola:99:78:120
+Miaouss de Galar:115:92:137
+Persian:150:136:163
+Persian d'Alola:158:136:163
+Psykokwak:122:95:137
+Akwakwak:191:162:190
+Férosinge:148:82:120
+Colossinge:207:138:163
+Caninos:136:93:146
+Arcanin:227:166:207
+Ptitard:101:82:120
+Têtarte:130:123:163
+Tartard:182:184:207
+Abra:195:82:93
+Kadabra:232:117:120
+Alakazam:271:167:146
+Méga-Alakazam:367:207:146
+Machoc:137:82:172
+Machopeur:177:125:190
+Mackogneur:234:159:207
+Chétiflor:139:61:137
+Boustiflor:172:92:163
+Empiflor:207:135:190
+Tentacool:97:149:120
+Tentacruel:166:209:190
+Racaillou:132:132:120
+Racaillou d'Alola:132:132:120
+Gravalanch:164:164:146
+Gravalanch d'Alola:164:164:146
+Grolem:211:198:190
+Grolem d'Alola:211:198:190
+Ponyta:170:127:137
+Ponyta de Galar:170:127:137
+Galopa:207:162:163
+Galopa de Galar:207:162:163
+Ramoloss:109:98:207
+Ramoloss de Galar:109:98:207
+Flagadoss:177:180:216
+Flagadoss de Galar:182:156:216
+Méga-Flagadoss:224:259:216
+Magnéti:165:121:93
+Magnéton:223:169:137
+Canarticho:124:115:141
+Canarticho de Galar:174:114:141
+Doduo:158:83:111
+Dodrio:218:140:155
+Otaria:85:121:163
+Lamantine:139:177:207
+Tadmorv:135:90:190
+Tadmorv d'Alola:135:90:190
+Grotadmorv:190:172:233
+Grotadmorv d'Alola:190:172:233
+Kokiyas:116:134:102
+Crustabri:186:256:137
+Fantominus:186:67:102
+Spectrum:223:107:128
+Ectoplasma:261:149:155
+Méga-Ectoplasma:349:199:155
+Onix:85:232:111
+Soporifik:89:136:155
+Hypnomade:144:193:198
+Krabby:181:124:102
+Krabboss:240:181:146
+Voltorbe:109:111:120
+Voltorbe de Hisui:109:111:120
+Électrode:173:173:155
+Noeunoeuf:107:125:155
+Noadkoko:233:149:216
+Noadkoko d'Alola:230:153:216
+Osselait:90:144:137
+Ossatueur:144:186:155
+Ossatueur d'Alola:144:186:155
+Kicklee:224:181:137
+Tygnon:193:197:137
+Excelangue:108:137:207
+Smogo:119:141:120
+Smogogo:174:197:163
+Smogogo de Galar:174:197:163
+Rhinocorne:140:127:190
+Rhinoféros:222:171:233
+Leveinard:60:128:487
+Saquedeneu:183:169:163
+Kangourex:181:165:233
+Méga-Kangourex:246:210:233
+Hypotrempe:129:103:102
+Hypocéan:187:156:146
+Poissirène:123:110:128
+Poissoroy:175:147:190
+Stari:137:112:102
+Staross:210:184:155
+M. Mime:192:205:120
+M. Mime de Galar:183:169:137
+Insécateur:218:170:172
+Lippoutou:223:151:163
+Élektek:198:158:163
+Magmar:206:154:163
+Scarabrute:238:182:163
+Méga-Scarabrute:305:231:163
+Tauros:198:183:181
+Magicarpe:29:85:85
+Léviator:237:186:216
+Méga-Léviator:292:247:216
+Lokhlass:165:174:277
+Métamorph:91:91:134
+Évoli:104:114:146
+Aquali:205:161:277
+Voltali:232:182:163
+Pyroli:246:179:163
+Porygon:153:136:163
+Amonita:155:153:111
+Amonistar:207:201:172
+Kabuto:148:140:102
+Kabutops:220:186:155
+Ptéra:221:159:190
+Méga-Ptéra:292:210:190
+Ronflex:190:169:330
+Artikodin:192:236:207
+Artikodin de Galar:250:197:207
+Électhor:253:185:207
+Électhor de Galar:252:189:207
+Sulfura:251:181:207
+Sulfura de Galar:202:231:207
+Minidraco:119:91:121
+Draco:163:135:156
+Dracolosse:263:198:209
+Mewtwo:300:182:214
+Mewtwo (Armure):182:278:214
+Méga-Mewtwo X:412:222:235
+Méga-Mewtwo Y:426:229:235
+Mew:210:210:225
+Germignon:92:122:128
+Macronium:122:155:155
+Méganium:168:202:190
+Héricendre:116:93:118
+Feurisson:158:126:151
+Typhlosion:223:173:186
+Kaiminus:117:109:137
+Crocrodil:150:142:163
+Aligatueur:205:188:198
+Fouinette:79:73:111
+Fouinar:148:125:198
+Hoothoot:67:88:155
+Noarfang:145:156:225
+Coxy:72:118:120
+Coxyclaque:107:179:146
+Mimigal:105:73:120
+Migalos:161:124:172
+Nostenfer:194:178:198
+Loupio:106:97:181
+Lanturn:146:137:268
+Pichu:77:53:85
+Mélo:75:79:137
+Toudoudou:69:32:207
+Togepi:67:116:111
+Togetic:139:181:146
+Natu:134:89:120
+Xatu:192:146:163
+Wattouat:114:79:146
+Lainergie:145:109:172
+Pharamp:211:162:207
+Méga-Pharamp:294:203:207
+Joliflor:169:180:181
+Marill:37:93:172
+Azumarill:112:152:225
+Simularbre:167:176:172
+Tarpaud:174:179:207
+Granivol:67:94:111
+Floravol:91:120:146
+Cotovol:118:170:181
+Capumain:136:112:146
+Tournegrin:55:55:102
+Héliatronc:185:135:181
+Yanma:154:94:163
+Axoloto:75:66:146
+Maraiste:152:143:216
+Mentali:261:175:163
+Noctali:126:240:216
+Cornèbre:175:87:155
+Roigada:177:180:216
+Roigada de Galar:190:180:216
+Feuforêve:167:154:155
+Zarbi:136:91:134
+Qulbutoké:60:106:382
+Girafarig:182:133:172
+Pomdepik:108:122:137
+Foretress:161:205:181
+Insolourdo:131:128:225
+Scorplane:143:184:163
+Steelix:148:272:181
+Méga-Steelix:212:327:181
+Snubbull:137:85:155
+Granbull:212:131:207
+Qwilfish:184:138:163
+Cizayox:236:181:172
+Méga-Cizayox:279:250:172
+Caratroc:17:396:85
+Scarhino:234:179:190
+Méga-Scarhino:334:223:190
+Farfuret:189:146:146
+Teddiursa:142:93:155
+Ursaring:236:144:207
+Limagma:118:71:120
+Volcaropod:139:191:137
+Marcacrin:90:69:137
+Cochignon:181:138:225
+Corayon:118:156:146
+Corayon de Galar:116:182:155
+Rémoraid:127:69:111
+Octillery:197:141:181
+Cadoizo:128:90:128
+Démanta:148:226:163
+Airmure:148:226:163
+Malosse:152:83:128
+Démolosse:224:144:181
+Méga-Démolosse:289:194:181
+Hyporoi:194:194:181
+Phanpy:107:98:207
+Donphan:214:185:207
+Porygon2:198:180:198
+Cerfrousse:192:131:177
+Queulorior:40:83:146
+Debugant:64:64:111
+Kapoera:173:207:137
+Lippouti:153:91:128
+Élekid:135:101:128
+Magby:151:99:128
+Écrémeuh:157:193:216
+Leuphorie:129:169:496
+Raikou:241:195:207
+Entei:235:171:251
+Suicune:180:235:225
+Embrylex:115:93:137
+Ymphect:155:133:172
+Tyranocif:251:207:225
+Méga-Tyranocif:309:276:225
+Lugia:193:310:235
+Ho-Oh:239:244:214
+Celebi:210:210:225
+Arcko:124:94:120
+Massko:172:120:137
+Jungko:223:169:172
+Méga-Jungko:320:186:172
+Poussifeu:130:87:128
+Galifeu:163:115:155
+Braségali:240:141:190
+Méga-Braségali:329:168:190
+Gobou:126:93:137
+Flobio:156:133:172
+Laggron:208:175:225
+Méga-Laggron:283:218:225
+Medhyèna:96:61:111
+Grahyèna:171:132:172
+Zigzaton:58:80:116
+Zigzaton de Galar:58:80:116
+Linéon:142:128:186
+Linéon de Galar:142:128:186
+Chenipotte:75:59:128
+Armulys:60:77:137
+Charmillon:172:98:155
+Blindalys:60:77:137
+Papinox:98:162:155
+Nénupiot:71:77:120
+Lombre:112:119:155
+Ludicolo:173:176:190
+Grainipiot:71:77:120
+Pifeuil:134:78:172
+Tengalice:200:121:207
+Nirondelle:106:61:120
+Hélédelle:185:124:155
+Goélise:106:61:120
+Bekipan:175:174:155
+Tarsal:79:59:99
+Kirlia:117:90:116
+Gardevoir:237:195:169
+Méga-Gardevoir:326:229:169
+Arakdo:93:87:120
+Maskadra:192:150:172
+Balignon:74:110:155
+Chapignon:241:144:155
+Parecool:104:92:155
+Vigoroth:159:145:190
+Monaflèmit:290:166:284
+Ningale:80:126:104
+Ninjask:199:112:156
+Munja:153:73:1
+Chuchmur:92:42:162
+Ramboum:134:81:197
+Brouhabam:179:124:232
+Makuhita:99:54:176
+Hariyama:209:114:302
+Azurill:36:71:137
+Tarinor:82:215:102
+Skitty:84:79:137
+Delcatty:132:127:172
+Ténéfix:141:136:137
+Méga-Ténéfix:151:216:137
+Mysdibule:155:141:137
+Méga-Mysdibule:188:217:137
+Galekid:121:141:137
+Galegon:158:198:155
+Galeking:198:257:172
+Méga-Galeking:247:331:172
+Méditikka:78:107:102
+Charmina:121:152:155
+Méga-Charmina:205:179:155
+Dynavolt:123:78:120
+Élecsprint:215:127:172
+Méga-Élecsprint:286:179:172
+Posipi:167:129:155
+Négapi:147:150:155
+Muciole:143:166:163
+Lumivole:143:166:163
+Rosélia:186:131:137
+Gloupti:80:99:172
+Avaltout:140:159:225
+Carvanha:171:39:128
+Sharpedo:243:83:172
+Méga-Sharpedo:289:144:172
+Wailmer:136:68:277
+Wailord:175:87:347
+Chamallot:119:79:155
+Camérupt:194:136:172
+Méga-Camérupt:253:183:172
+Chartor:151:203:172
+Spoink:125:122:155
+Groret:171:188:190
+Spinda:116:116:155
+Kraknoix:162:78:128
+Vibraninf:134:99:137
+Libégon:205:168:190
+Cacnea:156:74:137
+Cacturne:221:115:172
+Tylton:76:132:128
+Altaria:141:201:181
+Méga-Altaria:222:218:181
+Mangriff:222:124:177
+Séviper:196:118:177
+Séléroc:178:153:207
+Solaroc:178:153:207
+Barloche:93:82:137
+Barbicha:151:141:242
+Écrapince:141:99:125
+Colhomard:224:142:160
+Balbuto:77:124:120
+Kaorine:140:229:155
+Lilia:105:150:165
+Vacilys:152:194:200
+Anorith:176:100:128
+Armaldo:222:174:181
+Barpau:29:85:85
+Milobellus:192:219:216
+Morphéo:139:139:172
+Morphéo:139:139:172
+Morphéo:139:139:172
+Morphéo:139:139:172
+Kecleon:161:189:155
+Polichombr:138:65:127
+Branette:218:126:162
+Méga-Branette:312:160:162
+Skelénox:70:162:85
+Téraclope:124:234:120
+Tropius:136:163:223
+Éoko:175:170:181
+Absol:246:120:163
+Méga-Absol:314:130:163
+Okéoké:41:86:216
+Stalgamin:95:95:137
+Oniglali:162:162:190
+Méga-Oniglali:252:168:190
+Obalie:95:90:172
+Phogleur:137:132:207
+Kaimorse:182:176:242
+Coquiperl:133:135:111
+Serpang:197:179:146
+Rosabyss:211:179:146
+Relicanth:162:203:225
+Lovdisc:81:128:125
+Draby:134:93:128
+Drackhaus:172:155:163
+Drattak:277:168:216
+Méga-Drattak:310:251:216
+Terhal:96:132:120
+Métang:138:176:155
+Métalosse:257:228:190
+Méga-Métalosse:300:289:190
+Regirock:179:309:190
+Regice:179:309:190
+Registeel:143:285:190
+Latias:228:246:190
+Méga-Latias:335:241:190
+Latios:268:212:190
+Méga-Latios:289:297:190
+Kyogre:270:228:205
+Primo-Kyogre:364:276:225
+Groudon:270:228:205
+Primo-Groudon:364:276:225
+Rayquaza:284:170:213
+Méga-Rayquaza:389:216:233
+Jirachi:210:210:225
+Deoxys Forme Normale:345:115:137
+Deoxys Forme Attaque:414:46:137
+Deoxys Forme Défense:144:330:137
+Deoxys Forme Vitesse:230:218:137
+Tortipouss:119:110:146
+Boskara:157:143:181
+Torterra:202:188:216
+Ouisticram:113:86:127
+Chimpenfeu:158:105:162
+Simiabraz:222:151:183
+Tiplouf:112:102:142
+Prinplouf:150:139:162
+Pingoléon:210:186:197
+Étourmi:101:58:120
+Étourvol:142:94:146
+Étouraptor:234:140:198
+Keunotor:80:73:153
+Castorno:162:119:188
+Crikzik:45:74:114
+Mélokrik:160:100:184
+Lixy:117:64:128
+Luxio:159:95:155
+Luxray:232:156:190
+Rozbouton:91:109:120
+Roserade:243:185:155
+Kranidos:218:71:167
+Charkos:295:109:219
+Dinoclier:76:195:102
+Bastiodon:94:286:155
+Cheniti:53:83:120
+Cheniselle:141:180:155
+Cheniselle (Sable):141:180:155
+Cheniselle (Déchet):127:175:155
+Papilord:185:98:172
+Apitrini:59:83:102
+Apireine:149:190:172
+Pachirisu:94:172:155
+Mustébouée:132:67:146
+Mustéflott:221:114:198
+Ceribou:108:92:128
+Ceriflor Temps Couvert:170:153:172
+Ceriflor Temps Ensoleillé:170:153:172
+Sancoki Mer Occident:103:105:183
+Sancoki Mer Orient:103:105:183
+Tritosor Mer Occident:169:143:244
+Tritosor Mer Orient:169:143:244
+Capidextre:205:143:181
+Baudrive:117:80:207
+Grodrive:180:102:312
+Laporeille:130:105:146
+Lockpin:156:194:163
+Méga-Lockpin:282:214:163
+Magirêve:211:187:155
+Corboss:243:103:225
+Chaglam:109:82:135
+Chaffreux:172:133:174
+Korillon:114:94:128
+Moufouette:121:90:160
+Moufflair:184:132:230
+Archéomire:43:154:149
+Archéodong:161:213:167
+Manzaï:124:133:137
+Mime Jr.:125:142:85
+Ptiravi:25:77:225
+Pijako:183:91:183
+Spiritomb:169:199:137
+Griknot:124:84:151
+Carmache:172:125:169
+Carchacrok:261:193:239
+Méga-Carchacrok:339:222:239
+Goinfrex:137:117:286
+Riolu:127:78:120
+Lucario:236:144:172
+Méga-Lucario:310:175:172
+Hippopotas:124:118:169
+Hippodocus:201:191:239
+Rapion:93:151:120
+Drascore:180:202:172
+Cradopaud:116:76:134
+Coatox:211:133:195
+Vortente:187:136:179
+Écayon:96:116:135
+Luminéon:142:170:170
+Babimanta:105:179:128
+Blizzi:115:105:155
+Blizzaroi:178:158:207
+Méga-Blizzaroi:240:191:207
+Dimoret:243:171:172
+Magnézone:238:205:172
+Coudlangue:161:181:242
+Rhinastoc:241:190:251
+Bouldeneu:207:184:225
+Élekable:249:163:181
+Maganon:247:172:181
+Togekiss:225:217:198
+Yanmega:231:156:200
+Phyllali:216:219:163
+Givrali:238:205:163
+Scorvol:185:222:181
+Mammochon:247:146:242
+Porygon-Z:264:150:198
+Gallame:237:195:169
+Méga-Gallame:326:230:169
+Tarinorme:135:275:155
+Noctunoir:180:254:128
+Momartik:171:150:172
+Motisma:185:159:137
+Motisma Hélice:204:219:137
+Motisma Froid:204:219:137
+Motisma Chaleur:204:219:137
+Motisma Tonte:204:219:137
+Motisma Lavage:204:219:137
+Créhelf:156:270:181
+Créfollet:212:212:190
+Créfadet:270:151:181
+Dialga:275:211:205
+Palkia:280:215:189
+Heatran:251:213:209
+Regigigas:287:210:221
+Giratina:187:225:284
+Giratina (Originel):225:187:284
+Cresselia:152:258:260
+Phione:162:162:190
+Manaphy:210:210:225
+Darkrai:285:198:172
+Shaymin:210:210:225
+Shaymin (Céleste):261:166:225
+Arceus:238:238:237
+Victini:210:210:225
+Vipélierre:88:107:128
+Lianaja:122:152:155
+Majaspic:161:204:181
+Gruikui:115:85:163
+Grotichon:173:106:207
+Roitiflam:235:127:242
+Moustillon:117:85:146
+Mateloutre:159:116:181
+Clamiral:212:157:216
+Ratentif:98:73:128
+Miradar:165:139:155
+Ponchiot:107:86:128
+Ponchien:145:126:163
+Mastouffe:188:182:198
+Chacripan:98:73:121
+Léopardus:187:106:162
+Feuillajou:104:94:137
+Feuiloutan:206:133:181
+Flamajou:104:94:137
+Flamoutan:206:133:181
+Flotajou:104:94:137
+Flotoutan:206:133:181
+Munna:111:92:183
+Mushana:183:166:253
+Poichigeon:98:80:137
+Colombeau:144:107:158
+Déflaisan:226:146:190
+Zébibron:118:64:128
+Zéblitz:211:136:181
+Nodulithe:121:110:146
+Géolithe:174:143:172
+Gigalithe:226:194:198
+Chovsourir:107:85:163
+Rhinolove:161:119:167
+Rototaupe:154:85:155
+Minotaupe:255:129:242
+Nanméouïe:114:163:230
+Méga-Nanmeouie:147:239:230
+Charpenti:134:87:181
+Ouvrifier:180:134:198
+Bétochef:243:158:233
+Tritonde:98:78:137
+Batracné:128:109:181
+Crapustule:170:150:233
+Judokrak:172:160:260
+Karaclée:231:153:181
+Larveyette:96:124:128
+Couverdure:115:162:146
+Manternel:205:158:181
+Venipatte:83:99:102
+Scobolide:100:173:120
+Brutapode:184:175:155
+Doudouvet:71:111:120
+Farfaduvet:164:176:155
+Chlorobule:119:91:128
+Fragilady:214:155:172
+Bargantua (Rouge):189:129:172
+Bargantua (Bleu):189:129:172
+Mascaïman:132:69:137
+Escroco:155:90:155
+Crocorible:229:145:216
+Darumarond:153:86:172
+Darumarond de Galar:153:86:172
+Darumacho:263:114:233
+Darumacho (Mode Transe):243:202:233
+Darumacho de Galar:263:114:233
+Darumacho de Galar (Mode Transe):323:123:233
+Maracachi:201:130:181
+Crabicoque:118:128:137
+Crabaraque:188:200:172
+Baggiguane:132:132:137
+Baggaïd:163:222:163
+Cryptéro:204:167:176
+Tutafeh:95:141:116
+Tutafeh de Galar:95:141:116
+Tutankafer:163:237:151
+Carapagos:134:146:144
+Mégapagos:192:197:179
+Arkéapti:213:89:146
+Aéroptéryx:292:139:181
+Miamiasme:96:122:137
+Miasmax:181:164:190
+Zorua:153:78:120
+Zoroark:250:127:155
+Chinchidou:98:80:146
+Pashmilla:198:130:181
+Scrutella:98:112:128
+Mesmérella:137:153:155
+Sidérella:176:205:172
+Nucléos:170:83:128
+Méios:208:103:163
+Symbios:214:148:242
+Couaneton:84:96:158
+Lakmécygne:182:132:181
+Sorbébé:118:106:113
+Sorboul:151:138:139
+Sorbouboul:218:184:174
+Vivaldaim:115:100:155
+Haydaim:198:146:190
+Emolga:158:127:146
+Carabing:137:87:137
+Lançargot:223:187:172
+Trompignon:97:91:170
+Gaulet:155:139:249
+Viskuse:115:134:146
+Moyade:159:178:225
+Mamanbo:138:131:338
+Statitik:110:98:137
+Mygavolt:201:128:172
+Grindur:82:155:127
+Noacier:158:223:179
+Tic:98:121:120
+Clic:150:174:155
+Cliticlic:199:214:155
+Anchwatt:105:78:111
+Lampéroie:156:130:163
+Ohmassacre:217:152:198
+Lewsor:148:100:146
+Neitram:221:163:181
+Funécire:108:98:137
+Mélancolux:169:115:155
+Lugulabre:271:182:155
+Coupenotte:154:101:130
+Incisache:212:123:165
+Tranchodon:284:172:183
+Polarhume:128:74:146
+Polagriffe:233:152:216
+Hexagel:190:202:190
+Escargaume:72:140:137
+Limaspeed:220:120:190
+Limonde:144:171:240
+Limonde de Galar:144:171:240
+Kungfouine:160:98:128
+Shaofouine:258:127:163
+Drakkarmin:213:170:184
+Gringolem:127:92:153
+Golemastoc:222:154:205
+Scalpion:154:114:128
+Scalproie:232:176:163
+Frison:195:182:216
+Furaiglon:150:97:172
+Gueriaigle:232:152:225
+Vostourno:105:139:172
+Vaututrice:129:205:242
+Aflamanoir:204:129:198
+Fermite:217:188:151
+Solochi:116:93:141
+Diamat:159:135:176
+Trioxhydre:256:188:211
+Pyronille:156:107:146
+Pyrax:264:189:198
+Cobaltium:192:229:209
+Terrakium:260:192:209
+Viridium:192:229:209
+Boréas:266:164:188
+Boréas (Totémique):238:189:188
+Fulguris:266:164:188
+Fulguris (Totémique):295:161:188
+Reshiram:275:211:205
+Zekrom:275:211:205
+Démétéros:261:182:205
+Démétéros (Totémique):289:179:205
+Kyurem:246:170:245
+Kyurem (Noir):310:183:245
+Kyurem (Blanc):310:183:245
+Keldeo:260:192:209
+Keldeo (Décidé):260:192:209
+Meloetta:250:225:225
+Meloetta (Danse):269:188:225
+Genesect:252:199:174
+Marisson:110:106:148
+Boguérisse:146:156:156
+Blindépique:201:204:204
+Feunnec:116:102:120
+Roussil:171:130:153
+Goupelin:230:189:181
+Grenousse:122:84:121
+Croâporal:168:114:144
+Amphinobi:223:152:176
+Amphinobi (Sacha):339:155:176
+Sapereau:68:72:116
+Excavarenne:112:155:198
+Passerouge:95:80:128
+Braisillon:145:110:158
+Flambusard:176:155:186
+Lépidonille:63:63:116
+Pérégrain:48:89:128
+Prismillon:176:103:190
+Hélionceau:139:112:158
+Némélios:221:149:200
+Flabébé:108:120:127
+Floette:136:151:144
+Florges:212:244:186
+Cabriolaine:123:102:165
+Chevroum:196:146:265
+Pandespiègle:145:107:167
+Pandarbare:226:146:216
+Couafarel:164:167:181
+Psystigri:120:114:158
+Mistigrix:166:167:179
+Monorpale:135:139:128
+Dimoclès:188:206:153
+Exagide (Parade):97:291:155
+Exagide (Assaut:291:97:155
+Fluvetin:110:113:186
+Cocotine:173:150:226
+Sucroquin:109:119:158
+Cupcanaille:168:163:193
+Sepiatop:98:95:142
+Sepiatroce:177:165:200
+Opermine:96:120:123
+Golgopathe:194:205:176
+Venalgue:109:109:137
+Kravarech:177:207:163
+Flingouste:108:117:137
+Gamblast:221:171:174
+Galvaran:115:78:127
+Iguolta:219:168:158
+Ptyranidur:158:123:151
+Rexillius:227:191:193
+Amagara:124:109:184
+Dragmara:186:163:265
+Nymphali:203:205:216
+Brutalibré:195:153:186
+Dedenne:164:134:167
+Strassie:95:285:137
+Mucuscule:101:112:128
+Colimucus:159:176:169
+Muplodocus:220:242:207
+Trousselin:160:179:149
+Brocélôme:125:103:125
+Desséliande:201:154:198
+Pitrouille (Normal):121:123:135
+Pitrouille (Mini):122:124:127
+Pitrouille (Maxi):120:122:144
+Pitrouille (Ultra):118:120:153
+Banshitrouye (Normal):175:213:163
+Banshitrouye (Mini):171:219:146
+Banshitrouye (Maxi):179:206:181
+Banshitrouye (Ultra):182:200:198
+Grelaçon:117:120:146
+Séracrawl:196:240:216
+Sonistrelle:83:73:120
+Bruyverne:205:175:198
+Xerneas:250:185:246
+Yveltal:250:185:246
+Zygarde (50%):203:232:239
+Zygarde (10%):205:173:144
+Zygarde (Parfait):202:227:428
+Diancie:190:285:137
+Méga-Diancie:342:235:137
+Hoopa:252:216:190
+Hoopa (Déchaîné):341:210:190
+Volcanion:287:206:190
+Meltan:118:99:130
+Melmetal:226:190:264
+Ouistempo:122:91:137
+Badabouin:165:134:172
+Gorythmic:239:168:225
+Flambino:132:79:137
+Lapyro:170:125:163
+Pyrobut:238:163:190
+Larméléon:132:79:137
+Arrozard:186:113:163
+Lézargus:262:142:172
+Rongourmand:95:86:172
+Rongrigou:160:156:260
+Minisange:88:67:116
+Bleuseille:129:110:169
+Corvaillus:163:192:221
+Larvadar:46:67:93
+Coléodôme:87:157:137
+Astronelle:156:240:155
+Goupilou:85:82:120
+Roublenard:172:164:172
+Tournicoton:70:104:120
+Blancoton:148:211:155
+Moumouton:76:97:123
+Moumouflon:159:198:176
+Khélocrok:114:85:137
+Torgamord:213:164:207
+Voltoutou:80:90:153
+Fulgudog:197:131:170
+Charbi:73:91:102
+Wagomine:114:157:190
+Monthracite:146:198:242
+Verpom:71:116:120
+Pomdrapi:214:144:172
+Dratatin:178:146:242
+Dunaja:103:123:141
+Dunaconda:202:207:176
+Nigosier:173:163:172
+Embrochet:118:72:121
+Hastacuda:258:127:156
+Toxizap:97:65:120
+Salarsen:224:140:181
+Grillepattes:118:90:137
+Scolocendre:220:158:225
+Poulpaf:121:103:137
+Krakos:209:162:190
+Théffroi:134:96:120
+Polthégeist:248:189:155
+Bibichut:98:93:123
+Chapotus:153:133:149
+Sorcilence:237:182:149
+Grimalin:103:69:128
+Fourbelin:145:102:163
+Angoliath:227:139:216
+Ixon:180:194:212
+Berserkatt:195:162:172
+Corayôme:253:182:155
+Palarticho:248:176:158
+M. Glaquette:212:179:190
+Tutétékri:163:237:151
+Crèmy:90:97:128
+Charmilly:203:203:163
+Hexadron:193:170:163
+Wattapik:176:161:134
+Frissonille:76:59:102
+Beldeneige:230:155:172
+Dolman:222:182:225
+Bekaglaçon:148:195:181
+Bekaglaçon (Dégel):173:139:181
+Wimessir:208:166:155
+Wimessir (Femelle):184:184:172
+Morpeko:192:121:151
+Charibari:140:91:176
+Pachyradjah:226:126:263
+Galvagon:195:165:207
+Galvagla:190:166:207
+Hydragon:175:185:207
+Hydragla:171:185:207
+Duralugon:239:185:172
+Fantyrm:117:61:99
+Dispareptil:163:105:169
+Lanssorien:266:170:204
+Zacian:254:236:192
+Zacian (Épée Suprême):332:240:192
+Zamazenta:254:236:192
+Zamazenta (Bouclier Suprême):250:292:192
+Éthernatos:278:197:268
+Éthernatos (Infinimax):251:505:452
+Wushours:170:112:155
+Shifours:254:177:225
+Zarude:242:215:233
+Regieleki:250:125:190
+Regidrago:202:101:400
+Blizzeval:246:223:225
+Spectreval:300:161:225
+Sylveroy:162:162:225
+Sylveroy (Cavalier du Froid):268:246:205
+Sylveroy (Cavalier d'Effroi):324:194:205
